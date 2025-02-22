@@ -11,7 +11,7 @@ This repository is limited to tracking bugs; it isn't meant to record feature id
 the car not driving the way you would drive. So sometimes it is a judgement call as to whether something is a bug. 
 
 ## Bug Filing Guidelines
-Here is some information to include when filing a bug:
+Here is some information to include when filing a bug: 
 - Description of the wrong behavior
 - Expectation of what the correct behavior should be
 - Where was this observed to happen
